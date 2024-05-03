@@ -19,7 +19,7 @@ HobbyQuest is a web application designed to streamline hobby management, providi
 
 ## Registeration for Client
 
-![Registeraton Page](/screenshots/reg%20Client.png.png)
+![Registeraton Page](/screenshots/reg%20Client.png)
 
 ## register for business
 
